@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "tsc",
+    "build": "tsc && cp ./data/test-data.json ./dist/data",
     "dev": "ts-node main.ts",
     "start": "node ./dist/main.js"
   },
