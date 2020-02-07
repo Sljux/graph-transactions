@@ -5,3 +5,8 @@ To start run commands:
 > npm run build
 > npm start
 ```
+
+For development running, use
+```
+> nom run dev
+```

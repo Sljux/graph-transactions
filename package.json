@@ -8,7 +8,7 @@
     "dev": "ts-node main.ts",
     "start": "node ./dist/main.js"
   },
-  "author": "",
+  "author": "Aljosa Sljuka",
   "license": "ISC",
   "dependencies": {
     "@types/compression": "^1.0.1",
