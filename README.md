@@ -8,5 +8,5 @@ To start run commands:
 
 For development running, use
 ```
-> nom run dev
+> npm run dev
 ```
