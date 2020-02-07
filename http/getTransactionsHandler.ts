@@ -34,6 +34,8 @@ export function getTransactions (request: Request, response: Response): void {
         message = `Transaction ${id} not found`
       }
 
+      console.error(err)
+
       response.status(status).send(message)
     })
 }
